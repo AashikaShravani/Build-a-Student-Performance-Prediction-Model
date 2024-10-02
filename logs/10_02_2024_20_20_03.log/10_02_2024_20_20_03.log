@@ -1,0 +1,6 @@
+[ 2024-10-02 20:20:03,180 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-02 20:20:03,187 ] 96 werkzeug - INFO -  * Debugger PIN: 117-054-506
+[ 2024-10-02 20:21:39,816 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 20:21:39] "GET / HTTP/1.1" 200 -
+[ 2024-10-02 20:21:39,816 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\unicode_escape.py', reloading
+[ 2024-10-02 20:21:40,215 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 20:21:40] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2024-10-02 20:21:40,256 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 20:21:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

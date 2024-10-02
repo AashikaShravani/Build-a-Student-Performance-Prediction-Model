@@ -1,0 +1,5 @@
+[ 2024-10-02 20:13:19,383 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-02 20:13:19,392 ] 96 werkzeug - INFO -  * Debugger PIN: 117-054-506
+[ 2024-10-02 20:13:21,987 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\CHRIST\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+[ 2024-10-02 20:13:22,186 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\CHRIST\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\structures.py', reloading
+[ 2024-10-02 20:13:22,583 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\CHRIST\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\mixins.py', reloading

@@ -1,0 +1,4 @@
+[ 2024-10-02 20:18:59,630 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-02 20:18:59,635 ] 96 werkzeug - INFO -  * Debugger PIN: 117-054-506
+[ 2024-10-02 20:20:00,306 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\CHRIST\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\setuptools\\__init__.py', reloading
+[ 2024-10-02 20:20:00,365 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\CHRIST\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\setuptools\\discovery.py', reloading

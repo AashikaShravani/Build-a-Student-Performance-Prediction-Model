@@ -1,0 +1,5 @@
+[ 2024-10-02 20:21:42,837 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-02 20:21:42,843 ] 96 werkzeug - INFO -  * Debugger PIN: 117-054-506
+[ 2024-10-02 20:21:47,546 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 20:21:47] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-10-02 20:21:47,901 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 20:21:47] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-10-02 20:22:41,332 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\CHRIST\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\sklearn\\base.py', reloading
